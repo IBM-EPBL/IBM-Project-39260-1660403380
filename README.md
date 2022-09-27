@@ -3,10 +3,10 @@
 TECHNOLOGY : IOT   
 
 # **TEAM MEMBERS**     
-Rawat Batul.
-Rishikeshav.
-Umayal.
-Vipin.
+- Rawat Batul
+- Rishikeshav
+- Umayal
+- Vipin
 
 # **PROJECT DESCRIPTION:**          
 Garbage level detection in bins.     
