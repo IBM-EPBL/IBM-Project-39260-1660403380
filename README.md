@@ -16,7 +16,12 @@ Garbage level of the bins can be monitored through a web App.
 We can view the location of every bin in the web application by sending GPS location from the device.    
 
 # **Skills Required:**        
-IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
+- IBM Cloud
+- IBM Cloud Object Storage
+- Python
+- IBM Watson IoT Platform
+- Node-RED service
+- Cloudant DB
 
 # **Empathy Map:**
 https://app.mural.co/t/collectify1999/m/collectify1999/1664259233462/c6a9119fdb6c2df8add1c91cc4e1aadd7937663a?sender=ua05b5da4181e801e3fe04438
