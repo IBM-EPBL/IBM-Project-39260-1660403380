@@ -8,7 +8,7 @@
    </div> 
 
 
-Domain : Internet Of Things        
+Domain : Internet Of Things      
 Team ID : PNT2022TMID43225 
 Batch No: B2-2M4E     
 
